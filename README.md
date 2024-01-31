@@ -1,6 +1,5 @@
 # AICC Education - Página Web Estática
 
-¡Bienvenido al repositorio de la página web estática de la Universidad XYZ!
 
 ## Descripción del Proyecto
 
