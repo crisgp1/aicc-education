@@ -3,7 +3,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es parte de mis primeros pasos como desarrollador web. Se trata de una página web estática diseñada para representar la Universidad XYZ. La intención es crear una presencia en línea simple pero efectiva para la institución.
+Este proyecto es parte de mis primeros pasos como desarrollador web. Se trata de una página web estática diseñada para representar a AICC Education. La intención es crear una presencia en línea simple pero efectiva para la institución.
 
 ## Características Principales
 
